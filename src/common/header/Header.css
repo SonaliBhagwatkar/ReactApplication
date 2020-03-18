@@ -1,0 +1,34 @@
+
+.app-header{
+    background-color: palegreen !important;
+    overflow: hidden;
+    height: 70px;
+}
+
+.app-title{
+    color: green;
+    font-weight: bolder;
+    text-align: center;
+    font-size: medium;
+    padding-top: 5px;
+    padding-bottom: 0px;
+}
+
+.login-button{
+   float: right !important;   
+   margin-right: 30px !important;
+   margin-bottom: 30px !important;
+   margin-top: -40px !important;
+
+}
+
+/* Style used to insert spacing*/
+.login-spacing{
+    margin-left: 5px;
+}
+
+/* Styles to represent modal tabs appropriately on modak*/
+.tabs{
+    margin-bottom: 20px;
+    text-align: center;
+}
